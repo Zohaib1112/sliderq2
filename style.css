@@ -1,0 +1,28 @@
+.slider-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+/* Styling for the slider images */
+.slider-image {
+    display: none;
+    width: 120%;
+    height: auto;
+}
+
+/* Styling for the navigation buttons */
+.slider-nav {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.slider-nav button {
+    background-color: #00c3ff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    margin: 0 5px;
+    cursor: pointer;
+}
